@@ -12,6 +12,7 @@ A simple Windows Forms application for checking and filtering Discord tokens loc
 4. [Setup](#setup)
 5. [Usage](#usage)
 6. [Configuration](#configuration)
+7. [Screenshot](#screenshot)
 
 ---
 
@@ -76,6 +77,12 @@ The following checkboxes control what kind of tokens get saved:
 * **Save Phone Verified**: Only saves tokens with verified phone numbers.
 * **Save Nitro Basic / Boost**: Only saves tokens with specified Nitro subscriptions.
 * **Save MFA Enabled**: Only saves tokens where MFA is enabled.
+
+---
+
+## Screenshot
+
+<img width="1237" height="774" alt="Capture d&#39;écran 2025-11-29 225200" src="https://github.com/user-attachments/assets/c8f31f55-dc6b-4aa4-bdcf-886facef8da4" />
 
 ---
 
