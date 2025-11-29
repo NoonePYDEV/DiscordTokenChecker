@@ -12,8 +12,6 @@ A simple Windows Forms application for checking and filtering Discord tokens loc
 4. [Setup](#setup)
 5. [Usage](#usage)
 6. [Configuration](#configuration)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
