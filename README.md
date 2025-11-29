@@ -1,4 +1,4 @@
-# Discord Token Checker
+# Discord Token Checker GUI
 
 A simple Windows Forms application for checking and filtering Discord tokens locally. This tool allows you to validate tokens, retrieve user data, and optionally save filtered results. Built with C# and Newtonsoft.Json for JSON parsing.
 
