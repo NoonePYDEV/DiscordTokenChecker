@@ -7,18 +7,23 @@ A simple Windows Forms application for checking and filtering Discord tokens loc
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Setup](#setup)
-5. [Usage](#usage)
-6. [Configuration](#configuration)
-7. [Screenshot](#screenshot)
+2. [Screenshot](#screenshot)
+3. [Features](#features)
+4. [Requirements](#requirements)
+5. [Setup](#setup)
+6. [Usage](#usage)
+7. [Configuration](#configuration)
 
 ---
 
 ## Overview
 
 This application is designed to help users validate and inspect Discord tokens. It loads a list of tokens from a text file, checks them asynchronously, and displays the results in a clean interface. Users can filter based on email verification, phone verification, Nitro subscription type, or MFA enabled status.
+
+---
+## Screenshot
+
+<img width="1237" height="774" alt="Capture d&#39;écran 2025-11-29 225200" src="https://github.com/user-attachments/assets/c8f31f55-dc6b-4aa4-bdcf-886facef8da4" />
 
 ---
 
@@ -77,12 +82,6 @@ The following checkboxes control what kind of tokens get saved:
 * **Save Phone Verified**: Only saves tokens with verified phone numbers.
 * **Save Nitro Basic / Boost**: Only saves tokens with specified Nitro subscriptions.
 * **Save MFA Enabled**: Only saves tokens where MFA is enabled.
-
----
-
-## Screenshot
-
-<img width="1237" height="774" alt="Capture d&#39;écran 2025-11-29 225200" src="https://github.com/user-attachments/assets/c8f31f55-dc6b-4aa4-bdcf-886facef8da4" />
 
 ---
 
